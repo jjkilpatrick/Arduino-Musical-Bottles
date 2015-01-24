@@ -1,0 +1,20 @@
+{
+  "name": "arduino-musical-bottle",
+  "version": "0.0.1",
+  "description": "Pi Node RFID",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "lame": "~1.1.x",
+    "serialport": "^1.4.2",
+    "speaker": "~0.1.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Kilpatrick",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
